@@ -23,4 +23,6 @@ tb and pneumonia detection/
 
 for the malaraia dataset:    https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria/data
 download the dataset and save it as 'cell_images' in the 'malaria detection' folder
-and then add the images like p1,p2,...then u1 in the cell_images folder itself-  because i used those images to work , that is how it works now if need to modify note these changes
+and then add the images like p1,p2,...then u1 in the cell_images folder itself-  because i used those images to work , that is how it works now if need to modify note these changes  p-parasitized,u-uninfected
+
+
